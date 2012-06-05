@@ -2,6 +2,10 @@
 #	Script to Backup all your photos from PicPlz
 #	
 #	Daniel Spillere Andrade - www.DanielAndrade.net
+#
+#	Usage: download the file to some folder, and under terminal
+#	python main.py, enter your username and you are good to go! :)
+#
 #-----------------------------------------------------------------------------
 
 import urllib2
